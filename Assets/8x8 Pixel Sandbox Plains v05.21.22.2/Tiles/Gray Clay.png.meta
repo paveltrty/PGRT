@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gray Clay_0: 3358907923637245769
+      Gray Clay_1: -7823924368620843280
+      Gray Clay_2: 7207949356425744209
+      Gray Clay_3: 5643113310498963433
+      Gray Clay_4: 6812365485040012209
+      Gray Clay_5: -3462922951663404170
+      Gray Clay_6: 7551398798003621223
+      Gray Clay_7: -2560746334211248721
+      Gray Clay_8: -5751831164094106077
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

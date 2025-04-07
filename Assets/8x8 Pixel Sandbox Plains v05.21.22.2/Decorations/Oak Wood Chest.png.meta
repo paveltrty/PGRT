@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oak Wood Chest_0: -6643701964398968249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

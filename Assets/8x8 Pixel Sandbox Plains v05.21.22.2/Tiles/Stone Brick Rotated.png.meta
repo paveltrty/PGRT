@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone Brick Rotated_0: 6858033756644713316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

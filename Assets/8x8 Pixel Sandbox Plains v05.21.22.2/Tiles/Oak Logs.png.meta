@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oak Logs_0: -2731166571632842294
+      Oak Logs_1: -6047755293998385774
+      Oak Logs_10: -7235560356426127573
+      Oak Logs_11: 1349614708787757178
+      Oak Logs_12: -1837271034118859975
+      Oak Logs_13: 8137473184227337202
+      Oak Logs_14: -1661153275232568655
+      Oak Logs_15: -6885315247030521761
+      Oak Logs_16: 1683292908158184250
+      Oak Logs_17: -2719470720814607656
+      Oak Logs_18: -8893278213915675404
+      Oak Logs_19: -3145645654680925555
+      Oak Logs_2: 7889203416338475798
+      Oak Logs_20: 5273837264403620631
+      Oak Logs_21: -4535618050320698403
+      Oak Logs_22: 355520486847851863
+      Oak Logs_23: -7582801641012164996
+      Oak Logs_24: -2359541447155193642
+      Oak Logs_3: 3992641104398806511
+      Oak Logs_4: -8436939969224428351
+      Oak Logs_5: -1173965331735264505
+      Oak Logs_6: 2838748438897290525
+      Oak Logs_7: 5255596039213207701
+      Oak Logs_8: 4827816472376680425
+      Oak Logs_9: 1135163470194692601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

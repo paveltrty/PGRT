@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oak Wood Door_0: 5639529720645604508
+      Oak Wood Door_1: -1921104738512459445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

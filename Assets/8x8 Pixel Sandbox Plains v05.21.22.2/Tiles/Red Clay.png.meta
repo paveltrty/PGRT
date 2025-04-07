@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red Clay_0: -3221288892165257803
+      Red Clay_1: -1991393066029877468
+      Red Clay_2: 1141778753138027759
+      Red Clay_3: 4315233180518581581
+      Red Clay_4: -5905357099878079921
+      Red Clay_5: 5272520734793996238
+      Red Clay_6: -2551298138538311876
+      Red Clay_7: 6972772788459209630
+      Red Clay_8: -5041833963237260771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

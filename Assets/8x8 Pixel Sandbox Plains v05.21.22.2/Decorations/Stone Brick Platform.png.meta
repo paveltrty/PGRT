@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Stone Brick Platform_0: 1002465993737294979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

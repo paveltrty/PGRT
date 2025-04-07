@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Red Brick Rotated_0: 3610654014832929785
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
